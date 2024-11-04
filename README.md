@@ -1,20 +1,6 @@
-![This is me](https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg)
+![This is me](https://github.com/Pw7992/Priscila_Castellon/edit/main/README.md)
 ```javascript
-const KeepCoding = {
-code: [
-"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
-"BIG DATA & MACHINE LEARNING",
-"DEVOPS",
-"CIBERSEGURIDAD",
-"BLOCKCHAIN"],
-technologies:[
-"Cursos Online",
-"Webbinars",
-"BootCamps",
-]
-},
-homePage: "https://justcodeit.io/"
-};
+
 ``````
 
 # Priscila_Castellon
