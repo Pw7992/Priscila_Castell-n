@@ -1,7 +1,6 @@
-```![This is me](https://www.linkedin.com/in/priscila-castellon-vasquez/)
+[LinkedIn](https://www.linkedin.com/in/priscila-castellon-vasquez/)
 
 
-``````
 
 # Priscila_Castellon
 Curriculum
