@@ -17,8 +17,8 @@ Técnico en Diseño Gráfico y Web. Tecnológico de Costa Rica
 Ejecutivo en Inglés para Servicios. Instituto Nacional de Aprendizaje 
 Servicio al Cliente. Instituto Nacional de Aprendizaje
 
- H A BI L I D A DES TÉCNICAS
- 
+
+H A BI L I D A DES TÉCNICAS
 HTML5
 CSS
 Manejo de Photoshop, Illustrator, InDesign, After Effects, Camtasia, Visual Studio Code, Sublime Text, Figma
@@ -26,7 +26,9 @@ Dominio de Microsoft Office
 Certificado profesional de Scrum Foundation - SFPC
 Six Sigma-Cinturón Blanco 
 
+
 I D I O M AS
+
 Español - Nativo
 Inglés - B2
 Portugués- A2
